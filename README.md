@@ -59,8 +59,8 @@ project-root/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/NavyaAgarwal02/incident-tracker.git
+cd incident-tracker
 ````
 
 
@@ -248,3 +248,4 @@ Aspiring Software Engineer
 ```
 If you want, I can now customize this exactly for **your current project structure** and tech stack.
 ```
+
